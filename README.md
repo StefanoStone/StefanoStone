@@ -2,10 +2,11 @@
 
 Read more about me @ [stefanostone.github.io](https://stefanostone.github.io/)
 
+<!--
 ![StefanoStone's GitHub stats](https://github-readme-stats.vercel.app/api?username=StefanoStone&count_private=true&theme=onedark)
 
 ![StefanoStone GitHub/GitLab Merged Contribution with Contra](https://image.thum.io/get/width/1200/fullpage/maxAge/24/wait/2/https://contra-psi.vercel.app/?githubUsername=StefanoStone&gitlabUsername=StefanoStone)
-<!--
+
 **StefanoStone/StefanoStone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
